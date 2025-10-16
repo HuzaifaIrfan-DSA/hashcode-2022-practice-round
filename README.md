@@ -14,3 +14,5 @@ https://github.com/pierreavn/google-hashcode-archive/tree/main/archive/2022/prac
 # 📜 License
 
 Licensed under the MIT License, Copyright 2023 Huzaifa Irfan. [LICENSE](LICENSE)
+
+Last Updated on 2022-02-21
